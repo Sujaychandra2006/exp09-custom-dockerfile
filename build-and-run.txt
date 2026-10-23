@@ -1,0 +1,7 @@
+Commands to build and run:
+
+docker build -t my-python-app .
+docker run my-python-app
+
+docker images
+docker ps -a
